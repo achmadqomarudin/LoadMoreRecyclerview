@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Load More RecyclerView</string>
+    <string name="linear_rv_activity">Load More - Linear RecyclerView</string>
+    <string name="grid_rv_activity">Load More - Grid RecyclerView</string>
+    <string name="staggered_rv_activity">Load More - Staggered RecyclerView</string>
+    <string name="linear_recyclerview">Linear RecyclerView</string>
+    <string name="grid_recyclerview">Grid RecyclerView</string>
+    <string name="staggered_recyclerview">Staggered RecyclerView</string>
+</resources>
