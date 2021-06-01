@@ -28,7 +28,7 @@ Repo to demonstrate Load More Recyclerview App in Android app. This is a follow 
     <th>Example 2</th>
   </tr>
   <tr>
-    <td><img src="screenshots/1.jpg"/></td>
+    <td><img src="screenshots/1.gif"/></td>
     <td><img src="screenshots/2.gif"/></td>
   </tr>
   <tr>
