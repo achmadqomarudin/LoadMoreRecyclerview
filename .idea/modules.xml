@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Load_More_RecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/Load_More_RecyclerView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Load_More_RecyclerView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Load_More_RecyclerView.app.iml" />
-    </modules>
-  </component>
-</project>
